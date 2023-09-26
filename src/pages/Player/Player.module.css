@@ -1,6 +1,9 @@
 .container{
     display: flex;
-    flex-direction: row;
-    gap: 1.7rem;
+    align-items: center;
     justify-content: center;
+}
+
+.playerVideo{
+    height: 80vh;
 }
